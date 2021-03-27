@@ -1,1 +1,2 @@
-Això és l'arxiu 
+Això és l'arxiu
+He tornat a la branca master
